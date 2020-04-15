@@ -10,7 +10,7 @@ function App() {
   return (
     <div>
       <Header />
-      <div className="container">
+      <div className="App container">
         <div className="row mt-5">
           <div className="cardBorder col-sm-6 d-flex">
             <Contact />
