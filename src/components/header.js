@@ -13,13 +13,13 @@ const Header = () => {
         />
         <ul className="mt-5">
           <li>
-            <h1>Marc Fernandez</h1>
+            <h1 id="fullName">Marc Fernandez</h1>
           </li>
           <li>
-            <h3>Account Manager</h3>
+            <h3 id="currentRole">Account Manager</h3>
           </li>
           <li>
-            <h5>Eyebrain Medical</h5>
+            <h5 id="companyName">Eyebrain Medical</h5>
           </li>
         </ul>
       </div>

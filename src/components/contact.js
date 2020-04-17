@@ -4,7 +4,9 @@ const Contact = () => {
   return (
     <div id="contactInfo" className="bg-white p-5 text-dark flex-fill">
       <div className="text-left">
-        <h5 className="font-weight-bolder">Contact Info</h5>
+        <h5 id="contactInfoTitle" className="font-weight-bolder">
+          Contact Info
+        </h5>
         <ul className="list-unstyled font-weight-bolder">
           <li className="mb-2">
             <i className="far fa-envelope text-dark mr-2"></i>

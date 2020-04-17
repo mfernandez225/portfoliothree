@@ -7,7 +7,9 @@ const Portfolio = () => {
       <div>
         <ul>
           <li>
-            <h5 className="font-weight-bolder">Portfolio Section</h5>
+            <h5 id="portfolioTitle" className="font-weight-bolder">
+              Portfolio Section
+            </h5>
           </li>
           <li className="list-inline font-weight-bolder">
             <a id="qiktik" href="https://qiktik.herokuapp.com/">
