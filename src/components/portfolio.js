@@ -12,13 +12,13 @@ const Portfolio = () => {
             </h5>
           </li>
           <li className="list-inline font-weight-bolder">
-            <a id="qiktik" href="https://qiktik.herokuapp.com/">
-              <span className="portfolioLinks">QikTik</span>
+            <a id="neurolens" href="https://neurolens.herokuapp.com/">
+              <span className="portfolioLinks">Neurolens</span>
             </a>
           </li>
           <li className="list-inline font-weight-bolder">
-            <a id="qiktik" href="https://uciuserdirectory.herokuapp.com/">
-              <span className="portfolioLinks">React User Directory</span>
+            <a id="qiktik" href="https://qiktik.herokuapp.com/">
+              <span className="portfolioLinks">QikTik</span>
             </a>
           </li>
         </ul>
