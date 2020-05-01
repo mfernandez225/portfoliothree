@@ -2,3 +2,23 @@
   font-family: 'Permanent Marker',
     cursive;
 }
+
+#link {
+  font-weight: bolder;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+#card {
+  width: 18rem;
+}
+
+#cardTitle {
+  font-family: 'Permanent Marker',
+    cursive;
+}
+
+#portfolioLogo {
+  width: 200px;
+  height: 200px;
+}

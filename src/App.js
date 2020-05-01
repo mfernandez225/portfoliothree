@@ -11,11 +11,11 @@ function App() {
     <div>
       <Header />
       <div className="App container">
-        <div className="row mt-5">
-          <div className="cardBorder col-sm-6 d-flex">
+        <div className="row">
+          <div className="cardBorder col-sm-6 d-flex mt-5">
             <Contact />
           </div>
-          <div className="cardBorder col-sm-6 d-flex">
+          <div className="cardBorder col-sm-6 d-flex mt-5">
             <Tools />
           </div>
         </div>

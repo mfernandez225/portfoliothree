@@ -2,7 +2,10 @@ import React from "react";
 
 const Tools = () => {
   return (
-    <div id="codeSkills" className="bg-white text-dark p-5 flex-fill">
+    <div
+      id="codeSkills"
+      className="bg-white rounded-lg text-dark p-5 flex-fill"
+    >
       <div className="text-left ">
         <h5 className="groupHeader font-weight-bolder">Skills & Tools</h5>
         <ul id="skills" className="font-weight-bolder"></ul>
